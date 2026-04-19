@@ -1,0 +1,11 @@
+name = "Advanced Warfare Unit";
+picture = "awu_ca.paa";
+actionName = "";
+action = "";
+description = "";
+logo = "awu_ca.paa";
+logoOver = "awu_ca.paa";
+tooltip = "AWU S-4";
+tooltipOwned = "AWU S-4";
+overview = "Project AWU";
+author = "AWU S-4";

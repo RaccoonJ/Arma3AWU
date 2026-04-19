@@ -1,0 +1,18 @@
+name = "Advanced Warfare Unit"
+author = "AWU S-4"
+prefix = "awu"
+mainprefix = "awudev"
+
+[files]
+include = ["mod.cpp", "meta.cpp", "CHANGELOG.md", "AWU_ca.paa"]
+exclude = ["README.md", "*.png", "*.tga"]
+
+[version]
+git_hash = 0 # Default: 8
+
+[hemtt.build]
+optional_mod_folders = false
+
+[hemtt.release]
+sign = true 
+archive = false
